@@ -1,0 +1,4 @@
+IT1;pensil;3000;9
+IT2;penggaris;1000;14
+IT3;penghapus;2000;13
+IT2;penggaris;1000;14

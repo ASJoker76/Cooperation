@@ -1,0 +1,316 @@
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+c:\users\asus\documents\visual studio 2010\Projects\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+F:\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+F:\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+F:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+D:\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+D:\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+D:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+F:\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+F:\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+E:\tugas\baru\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+E:\tugas\baru\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\tugas\baru\Cooperation\Cooperation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+E:\tugas\baru\ke2\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+E:\tugas\baru\ke2\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\tugas\baru\ke2\Cooperation\Cooperation\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+E:\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+E:\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+E:\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MSi\Desktop\Cooperation\Cooperation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSi\Desktop\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+C:\Users\MSi\Desktop\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+C:\Users\ASJoker\Desktop\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+D:\last\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.Shared.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\FlashControlV71.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\ShockwaveFlashObjects.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Campus CCIT\Cooperation\Cooperation\bin\Debug\stdole.dll
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.report.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+D:\Campus CCIT\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.report.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+D:\Project\CCIT\2SC\2SC6\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\FlashControlV71.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\bin\Debug\stdole.dll
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.report.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.CV_Report_qty.resources
+C:\Users\ZLX\Documents\Cooperation\Cooperation\obj\x86\Debug\Cooperation.CV_Report.resources
+D:\last\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+D:\last\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.CV_Report_qty.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.CV_Report.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.report.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+D:\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+C:\Users\Asus\Downloads\Video\last\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+C:\Users\Asus\Downloads\Video\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+C:\Users\Asus\Downloads\Video\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\Cooperation.exe.config
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.pdb
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\Cooperation.exe
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\Cooperation.pdb
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\ShockwaveFlashObjects.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csprojResolveAssemblyReference.cache
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.add.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.additems.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.configureitems.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.CV_Report_qty.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.CV_Report.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.delete.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteemployee.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.deleteitems.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Home.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listemployee.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.listitems.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.login.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.mainmenu.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.Properties.Resources.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.registration.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.report.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updateemployee.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.updeteitems.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.viewlist.resources
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.csproj.GenerateResource.Cache
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\Cooperation.exe.manifest
+D:\Kuliah\C#\last\Cooperation\Cooperation\bin\Debug\Cooperation.application
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.exe.manifest
+D:\Kuliah\C#\last\Cooperation\Cooperation\obj\x86\Debug\Cooperation.application

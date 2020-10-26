@@ -1,0 +1,5 @@
+EP1;agus setiawan;18;Bogor;male;Senior High Scool;01 Januari 1997;admin;adminjuga;agussmata76@gmail.com;E:\Photo\image\DSC_0028.JPG
+EP2;iqbal ;18;Depok;male;Senior High Scool;02 Mei 1997;iqbal;iqbaljuga;iqbal@gmail.com;E:\Photo\image\tribal3.jpg
+EP3;fatur set;18;bogor;Male;Junior High Scool;01 Januari 1997;fatur;fatur@76;fatur@gmail.com;
+EP4;andre muhtar;18;bogor;Male;Senior High Scool;12 Januari 1997;andre77;andre77;agus76@gmail.com;C:\Users\AGUS SETIAWAN\Pictures\agus.bmp
+EP5;budi utomo;18;jakarta;Male;Diploma 3;01 Januari 1997;budi87;budi87;budi@gmail.com;
